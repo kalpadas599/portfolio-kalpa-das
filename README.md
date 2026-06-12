@@ -3,13 +3,8 @@
 
 This repository contains Kalpa Das' portfolio website with two user-facing modes:
 
-
 - Developer Mode: personal portfolio, skills, projects, and contact.
-
 - Freelancer Mode: service-focused page with pricing, work highlights, ratings, and quote form.
-
-
-The project is built with HTML, CSS, and JavaScript, and is optimized for desktop and mobile.
 
 ## New: Freelance Mode
 
