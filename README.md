@@ -14,7 +14,6 @@ This repository contains Kalpa Das' portfolio website with two user-facing modes
 Freelance Mode has been added as a dedicated experience for potential clients.
 
 
-
 ## Mode Toggle (Developer <-> Freelancer)
 
 The top navigation now includes a clear mode switch with labels:
