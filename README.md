@@ -9,7 +9,6 @@ This repository contains Kalpa Das' portfolio website with two user-facing modes
 
 ## New: Freelance Mode
 
-
 Freelance Mode has been added as a dedicated experience for potential clients.
 
 
